@@ -8,6 +8,12 @@ A modern, premium chess game built with **React**, **TypeScript**, **Vite**, and
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)
 
 ---
+🚀 Live Demo
+
+🔗 Live Demo:
+https://chess-master-game-beige.vercel.app/
+
+---
 📸 Screenshot
 
 <img width="1901" height="1077" alt="Screenshot 2026-06-08 215654" src="https://github.com/user-attachments/assets/080e0165-e84b-407f-b60b-b6c9e2f49ce4" />
