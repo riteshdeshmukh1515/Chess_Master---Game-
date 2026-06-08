@@ -8,6 +8,11 @@ A modern, premium chess game built with **React**, **TypeScript**, **Vite**, and
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)
 
 ---
+📸 Screenshot
+
+<img width="1901" height="1077" alt="Screenshot 2026-06-08 215654" src="https://github.com/user-attachments/assets/080e0165-e84b-407f-b60b-b6c9e2f49ce4" />
+
+---
 
 ## 🌟 Features
 
@@ -501,14 +506,9 @@ MIT — use it however you like.
 
 ---
 
-## 🙏 Credits
+👨‍💻 Author
 
-- **[chess.js](https://github.com/jhlywa/chess.js)** — bulletproof chess rules
-- **[react-chessboard](https://github.com/Clariity/react-chessboard)** — board UI
-- **[Framer Motion](https://www.framer.com/motion/)** — animations
-- **[canvas-confetti](https://github.com/catdad/canvas-confetti)** — celebrations
-- Piece-square tables adapted from the **Chess Programming Wiki**
-
+Ritesh Deshmukh
 ---
 
 Built with ♟️ and ☕ — happy chess!
